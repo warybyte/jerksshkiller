@@ -1,2 +1,2 @@
 # jerksshkiller
-one-liner to other SSH connections
+one-liner to kill other SSH connections
